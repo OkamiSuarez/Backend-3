@@ -1,0 +1,19 @@
+{
+  "name": "clase--2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "test": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "express": "^5.1.0",
+    "express-compression": "^1.0.2"
+  }
+}
